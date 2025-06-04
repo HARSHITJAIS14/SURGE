@@ -5,6 +5,9 @@ https://www.kaggle.com/datasets/robikiso/cheat-dataset
 **Competitions**
 https://www.kaggle.com/c/llm-detect-ai-generated-text/data
 
+**Awesome Github**
+https://github.com/Xianjun-Yang/Awesome_papers_on_LLMs_detection?tab=readme-ov-file
+
 **Notebook**
 https://www.kaggle.com/code/harshitjais14/bert-pretrainingdetector/edit
 In this notebook I tried to use the CHEAT dataset to create a pre-training classifier for LLM generated Text.
